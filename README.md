@@ -1,2 +1,26 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11212322&assignment_repo_type=AssignmentRepo)
 
+# Hungry Potter - Server Side
+
+
+## Authors
+
+- [@it4i](https://www.github.com/it4i) Itai Carmel - 208909416
+- [@shaySitri](https://www.github.com/shaySitri) Shay Sitri - 209405042
+
+## Tools
+This project contain server side of recipes web.
+Devolped with:
+- NodeJS
+- expressJS
+- Database: MySQL
+- Swagger API
+- Postman
+
+
+
+## Utils
+
+- home
+- recipes
+- user 
+- auth
